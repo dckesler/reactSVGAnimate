@@ -7,6 +7,7 @@ Intended for use in another of my projects, but it seemed possibly useful in oth
 - animation: What animation to switch to from the passive (also an animation object).
 - width: Width of the SVG window.
 - height: Height of the SVG window.
+
 ###Example
 ```javascript
 <Animator passive={passiveObj} animation={animationObj} width="500px" height="500px" />
