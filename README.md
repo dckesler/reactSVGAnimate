@@ -45,6 +45,3 @@ var animation = {
   ]
 }
 ```
-
-###Compiler
-You'll need to handle for both ES6 and JSX.
